@@ -1,0 +1,20 @@
+button{
+border: none;
+background: white;
+}
+button.btn.btn-secondary.float-left.mb-3 {
+    background-color: mediumpurple;
+}
+label {
+    font-size: 14pt;
+    font-weight: 700;
+}
+span.critical {
+    color: #bd2626;
+    font-size: 12pt;
+}
+@media (min-width: 992px) { 
+img.footer-icon {
+    margin: 0 0 0 37px;
+ }
+}
